@@ -2,7 +2,7 @@ import helper
 from helper import greeting
 
 def main():
-	print("called hello")
+	#print("called hello")
 	helper.greeting("hello")
 
 if __name__ == '__main__':
